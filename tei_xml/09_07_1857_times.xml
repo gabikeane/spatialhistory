@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English people-a problem, as all philos-.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Times (London, England). Thursday, Jul 09, 1857; pg. 8; Issue 22728.</p>
+         </publicationStmt>
+
+         <sourceDesc>
+            <p>Gale Document Number: CS134910185</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <ab>using decimal code \#8212; for em dashes</ab>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p><s>The English people&#8212;a problem, as all philosophers call them&#8212;offer at
+                  this moment a spectacle more than usually singular and characteristic.</s>
+               <s>Is it a just confidence in our character and position, or is it an ignorant
+                  rashness, which makes so many of us look for the arrival of the next news from
+                  <location source="1269750"><country>India</country></location>, now expected every day,&#8212;in three or four days at the
+                  latest,&#8212;with about as much interest as we should an overdue Australian
+                  steamer or the result of a rising at <location source="3117735"><region>Madrid</region></location>? They, indeed, who have friends in
+                  <location source="1269750"><country>India</country></location> have their own anxieties and speculations, for the Mail which may announce
+                  the entire supression of the mutiny may bring all the cost of valuable lives at
+                  which it has been purchased.</s>
+               <s>But the British public, as a whole, looks and talks as if many a like danger had
+                  vanished as soon as known, and as if our good fortne or invincible courage must
+                  carry us as easily through a Sepoy mutiny.</s>
+               <s>Yet what is the fact, and how does that fact address itself to the geographical
+                  ideas of our continental neighbours? The fact is a growing dissatisfaction and a
+                  sudden mutiny, long lurking and eventually breaking out for the length of a
+                  thousand miles across the <location source="1269750"><region>whole Peninsula</region></location>, suppressed with cautious tact and a
+                  great display of force at <location source="1275004"><region>Calcutta</region></location> and in the Punjab, but triumphant so far at the
+                  ancient capital of the Mogul Empire, the prophetic seat of power.</s>
+               <s>This is the state of things in a territory where less than 50,000 Europeans of all
+                  kinds hold in subjection seven times their number of armed men and a population of
+                  170,000,000.</s>
+               <s>The meshes of such a fabric cannot be very close.</s>
+               <s>The stations must be very wide apart, the communications difficult and slow, the
+                  detachments must be numerous and small; the travellers many, and but feebly
+                  escorted.</s>
+               <s>Nothing but <emph>prestige</emph>, a word so often applied to Indian affairs as to
+                  have become an Orientalism, can give strength to so flimsy a web and lull the
+                  tempest that, once raised, would sweep away every thread of it.</s>
+               <s>Think how many French troops are necessary in <location source="2589581/"><country>Algeria</country></location>, scarcely out of sight of
+                  their native shores, and along a thin coast! Yet, if the Hindoos are not generally
+                  a war-like race, there are still mixed up with them, and forming the best part of
+                  the native army, numberous races much stronger and more ambitious.</s>
+               <s>We deal with the descendants of conquerors; with those who still inherit titles of
+                  sovereignty; with hardy mountaineers; with recent marauders; with men whose very
+                  strength and savageness made it politic to enlist them.</s>
+               <s>The scene of the long smouldering discontent and the sudden outbreak is a
+                  vast country, much of which is little known, but where conspiracy lurks in
+                  populations created by ourselves, and preaks out at the very head-quarters of our
+                  dominion.</s>
+               <s>Such are the hard facts of the case, and bystanders who look at the hard facts
+                  must marvel at our composure.</s></p>
+            <p><s>But, after all, this is not the blind faith in a destiny or the rash confidence in
+                  our arms that a bystander might suppose.</s>
+               <s>We know the danger, and calculate it.</s>
+               <s>We know what the next Mail may possibly bring, and we have also our estimate.</s>
+               <s>When General ANSON concentrates his forces on <location source="1273294"><region>Delhi</region></location>, which at the last date seemed
+                  only a matter of time, and of a very short time, it is a question whether the
+                  insurgents will attempt to hold the city at the risk of entire destruction, or
+                  follow their own more natural tastes, as well as the safer course, by breaking up
+                  and scattering themselves over the country.</s>
+               <s>In the formering case, without leaders, wihtout artillery, ammuition, or stores,
+                  within a wide circle of ancient walls, and with no power of defending any one part
+                  of the city without sacrificing the rest, they must soon surrender at discretion,
+                  or abide the terrible issue of an assault.</s>
+               <s>No doubt, they reckon somewhat on the name of the city and on the fanatical
+                  character of the Mahomedan population.</s>
+               <s>They may, too, expect that a little perseverane may win support from the
+                  neighbouring States, whose fidelity we cannot reckon upon in the case of a
+                  reverse.</s>
+               <s>But to this course we see only one result, in which the treatment of the Mogul
+                  capital must be determined by military and political considerations.</s>
+               <s>Should the insurgents anticipate the siege by flight, then no doubt, they will
+                  give us much trouble of a harassing, but less serious, character.</s>
+               <s>But we have already seen how they have been received in their flight by those
+                  native chiefs to whose sympathy they appealed in an hour of temporary success.</s>
+               <s>As fugitives they will nowhere be able to make head against us.</s>
+               <s>The example of their dispersion must tell everywhere; and whatever credit has
+                  attached to the possession of <location source="1273294"><region>Delhi</region></location> must redound the disgrace of their cause.</s>
+               <s>This disposes of the two great alternatives before us.</s> <s>In either case,
+               however, we must still prepare our minds for lamentable events at other places than
+                  <location source="1273294"><region>Delhi</region></location>.</s>
+               <s>There is too much reason to fear that European officers at the smaller stations,
+                  or travelling perhaps in ignorance of these events, may be surprised by assassins
+                  or by excited crowds,&#8212;possibly by the dispersed mutineers.</s>
+               <s>The number of such casualties will partly depend on the interval allowed to pass
+                  between the first outbreak and the final retribution.</s>
+               <s>Therefore it is of the utmost importance that the latter should be as speedy and
+                  signal as the strength and disposition of the army will allow.</s>
+               <s>Every day that leaves <location source="1273294"><region>Delhi</region></location> in the hands of the men who have massacred the British
+                  population,&#8212;every day that sees them unpunished, will certainly add to the
+                  list of European victims.</s></p>
+            <p><s>The Sepoys have not yet stood their ground anywhere, for one minute, against so
+                  much as a company or a troop of European soldiers.</s>
+               <s>They have only surprised and murdered officers while addressing them, or even
+                  unconscious of danger.</s>
+               <s>Of course, it is not to be inferred that they will never stand their ground under
+                  resolute officers or when urged by desperation.</s>
+               <s>They may, as other semi-barbarians have been before them, be encouraged to a
+                  formidable degree of self-confidence by the fatal blunders or unavoidable
+                  disasters of the Europeans.</s>
+               <s>But this can only be a transient delusion, and there can be no doubt the lesson
+                  which the Sepoys have already received will be repeated with increasing force, and
+                  be the last left on their minds.</s>
+               <s>This certainly suggests some serious considerations as to the relations to be
+                  observed for the future between the numbers of the European and the native
+                  army.</s>
+               <s>Long ago, on he cessation of the late wars, experienced British officers were
+                  strongly in favour of the reduction, not of the number of native regiments to
+                  their full complement.</s>
+               <s>Now, to what extent it is possible to raise the number of European soldiers in
+                  <location source="1269750"><country>India</country></location>, now under 50,000, or how it may also be possible to reduce the native army,
+                  may be a nice and difficult question.</s>
+               <s>But the brief history of this lamentable outbreak shows the strength of a small
+                  European force, and the danger, as well as the weakness, of a large Indian
+                  one.</s>
+               <s>The self-confidence naturally engendered among a lare body of armed natives
+                  considerably under-officered has certainly contributed much to disaffection and
+                  mutiny.</s>
+               <s>Other causes may also have had their share.</s>
+               <s>There may be too great a distance between the native soldier and the British
+                  officer.</s>
+               <s>The latter may have allowed the native officer to overstep his rank.</s>
+               <s>There may have been a criminal neglect of the native superstitions.</s>
+               <s>The causes may have hastened, aggravated, and excused the outbreak.</s>
+               <s>But at the bottom of the whole is the sense of subjection, and the reliance on
+                  numbers ot shake it off.</s>
+               <s>This feeling will exist under the best management, and survive when policy has
+                  done its best.</s>
+               <s>We must therefore always be on our guard against it, and take care to keep the
+                  balance of power in European hands.</s></p>
+         </div>
+      </body>
+   </text>
+</TEI>
