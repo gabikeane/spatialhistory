@@ -23,7 +23,7 @@
    <text>
       <body>
          <div>
-            <p><s>The English people&#8212;a problem, as all philosophers call them&#8212;offer at
+            <p><s><w type="noun" subtype="indirectobj">The English people</w>&#8212;<w type="noun" subtype="dirobj">a problem</w>, as all <w type="noun" subtype="subject">philosophers</w> <w type="verb" subtype="active transitive" lemma="call">call</w> them&#8212;offer at
                   this moment a spectacle more than usually singular and characteristic.</s>
                <s>Is it a just confidence in our character and position, or is it an ignorant
                   rashness, which makes so many of us look for the arrival of the next news from
@@ -34,7 +34,7 @@
                   the entire supression of the mutiny may bring all the cost of valuable lives at
                   which it has been purchased.</s>
                <s>But the British public, as a whole, looks and talks as if many a like danger had
-                  vanished as soon as known, and as if our good fortne or invincible courage must
+                  vanished as soon as known, and as if our good fortune or invincible courage must
                   carry us as easily through a Sepoy mutiny.</s>
                <s>Yet what is the fact, and how does that fact address itself to the geographical
                   ideas of our continental neighbours? The fact is a growing dissatisfaction and a
