@@ -23,7 +23,7 @@
    <text>
       <body>
          <div>
-            <p><s><w type="noun" subtype="indirectobj">The English people</w>&#8212;<w type="noun" subtype="dirobj">a problem</w>, as all <w type="noun" subtype="subject">philosophers</w> <w type="verb" subtype="active transitive" lemma="call">call</w> them&#8212;offer at
+            <p><s><w type="noun" subtype="indirectobj">The English people</w>&#8212;<w type="noun" subtype="dirobj">a problem</w>, as all <w type="noun" subtype="subject">philosophers</w> <w type="verb" subtype="transitive" lemma="call">call</w> them&#8212;offer at
                   this moment a spectacle more than usually singular and characteristic.</s>
                <s>Is it a just confidence in our character and position, or is it an ignorant
                   rashness, which makes so many of us look for the arrival of the next news from
