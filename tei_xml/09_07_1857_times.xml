@@ -9,14 +9,14 @@
             <title>The English people-a problem, as all philos-</title>
          </titleStmt>
          <publicationStmt>
-            <p>The Times (London, England). Thursday, <date>Thursday, Jul 09, 1857</date>; pg. 8; Issue 22728.</p>
+            <p>The Times (London, England). <date>Thursday, Jul 09, 1857</date>; pg. 8; Issue 22728.</p>
             
          </publicationStmt>
 
          <sourceDesc>
             <p>Gale Document Number: CS134910185</p>
          </sourceDesc>
-      </fileDesc>
+     </fileDesc>
       <encodingDesc>
          <ab>using decimal code \#8212; for em dashes</ab>
       </encodingDesc>
@@ -24,35 +24,35 @@
    <text>
       <body>
          <div>
-            <p><s><phr type="noun" subtype="indirectobj">The English people</phr>&#8212; a <w type="noun" subtype="dirobj">problem</w>, as all <w type="noun" subtype="subject">philosophers</w> <w type="verb" subtype="transitive" lemma="call">call</w> them&#8212;offer at
+            <p><s>The English people&#8212; a problem, as all philosophers <w type="verb" subtype="transitive" lemma="call">call</w> them&#8212;<w type="verb" subtype="transitive" lemma="offer">offer</w> at
                   this moment a spectacle more than usually singular and characteristic.</s>
                <s>Is it a just confidence in our character and position, or is it an ignorant
-                  rashness, which makes so many of us look for the arrival of the next news from
-                  <ref><location source="1269750"><country>India</country></location></ref>, now expected every day,&#8212;in three or four days at the
-                  latest,&#8212;with about as much interest as we should an overdue Australian
-                  steamer or the result of a rising at <ref><location source="3117735"><placeName>Madrid</placeName></location></ref>? They, indeed, who have friends in
-                  <ref><location source="1269750"><country>India</country></location></ref> have their own anxieties and speculations, for the Mail which may announce
-                  the entire supression of the mutiny may bring all the cost of valuable lives at
-                  which it has been purchased.</s>
-               <s>But the British public, as a whole, looks and talks as if many a like danger had
-                  vanished as soon as known, and as if our good fortune or invincible courage must
-                  carry us as easily through a Sepoy mutiny.</s>
-               <s>Yet what is the fact, and how does that fact address itself to the geographical
+                  rashness, which makes so many of us <w type="verb" subtype="intransitive" lemma="look">look</w> for the arrival of the next news from
+                  <ref><location source="1269750"><country>India</country></location></ref>, now <w type="verb" subtype="transitive" lemma="expect">expected</w> every day,&#8212;in three or four days at the
+                  latest,&#8212;with about as much interest as we <w type="verb" subtype="modal" lemma="should">should</w> an overdue Australian
+                  steamer or the result of a rising at <ref><location source="3117735"><placeName>Madrid</placeName></location></ref>? They, indeed, who <w type="verb" subtype="transitive" lemma="have">have</w> friends in
+                  <ref><location source="1269750"><country>India</country></location></ref> <w type="verb" subtype="transitive" lemma="have">have</w> their own anxieties and speculations, for the Mail which <w type="verb" subtype="modal" lemma="may">may</w> <w type="verb" subtype="transitive" lemma="announce">announce</w>
+                  the entire supression of the mutiny <w type="verb" subtype="modal" lemma="may">may</w> <w type="verb" subtype="transitive" lemma="bring">bring</w> all the cost of valuable lives at
+                  which it <w type="verb" subtype="transitive" lemma="purchase">has been purchased</w>.</s>
+               <s>But the British public, as a whole, <w type="verb" subtype="intransitive" lemma="look">looks</w> and <w type="verb" subtype="intransitive" lemma="talk">talks</w> as if many a like danger <w type="verb" subtype="intransitive" lemma="vanish">had
+                  vanished</w> as soon as <w type="verb" subtype="transitive" lemma="know">known</w>, and as if our good fortune or invincible courage <w type="verb" subtype="modal" lemma="must">must</w>
+                  <w type="verb" subtype="transitive" lemma="carry">carry</w> us as easily through a Sepoy mutiny.</s>
+               <s>Yet what is the fact, and how does that fact <w type="verb" subtype="reflexive" lemma="address">address</w> itself to the geographical
                   ideas of our continental neighbours? The fact is a growing dissatisfaction and a
-                  sudden mutiny, long lurking and eventually breaking out for the length of a
-                  thousand miles across the <ref><location source="1269750"><placeName>whole Peninsula</placeName></location></ref>, suppressed with cautious tact and a
+                  sudden mutiny, long lurking and eventually <w type="verb" subtype="intransitive" lemma="break">breaking</w> out for the length of a
+                  thousand miles across the <ref><location source="1269750"><placeName>whole Peninsula</placeName></location></ref>, <w type="verb" subtype="transitive" lemma="suppress">suppressed</w> with cautious tact and a
                   great display of force at <ref><location source="1275004"><placeName>Calcutta</placeName></location></ref> and in <ref><location source="1259224"><placeName>the Punjab</placeName></location></ref>, but triumphant so far at the
                   ancient capital of the Mogul Empire, the prophetic seat of power.</s>
                <s>This is the state of things in a territory where less than 50,000 Europeans of all
-                  kinds hold in subjection seven times their number of armed men and a population of
+                  kinds <w type="verb" subtype="transitive" lemma="hold">hold</w> in subjection seven times their number of armed men and a population of
                   170,000,000.</s>
-               <s>The meshes of such a fabric cannot be very close.</s>
-               <s>The stations must be very wide apart, the communications difficult and slow, the
-                  detachments must be numerous and small; the travellers many, and but feebly
-                  escorted.</s>
-               <s>Nothing but <emph>prestige</emph>, a word so often applied to Indian affairs as to
-                  have become an Orientalism, can give strength to so flimsy a web and lull the
-                  tempest that, once raised, would sweep away every thread of it.</s>
+               <s>The meshes of such a fabric <w type="verb" subtype="modal" lemma="can">cannot be</w> very close.</s>
+               <s>The stations <w type="verb" subtype="modal" lemma="must">must be</w> very wide apart, the communications difficult and slow, the
+                  detachments <w type="verb" subtype="modal" lemma="must">must be</w> numerous and small; the travellers many, and but feebly
+                  <w type="verb" subtype="transitive" lemma="escort">escorted</w>.</s>
+               <s>Nothing but <emph>prestige</emph>, a word so often <w type="verb" subtype="intransitive" lemma="apply">applied</w> to Indian affairs as <w type="verb" subtype="transitive" lemma="become">to
+                  have become</w> an Orientalism, <w type="verb" subtype="modal" lemma="can">can</w> <w type="verb" subtype="transitive" lemma="give">give</w> strength to so flimsy a web and <w type="verb" subtype="transitive" lemma="lull">lull</w> the
+                  tempest that, once <w type="verb" subtype="transitive" lemma="raise">raised</w>, <w type="verb" subtype="modal" lemma="will">would</w> <w type="verb" subtype="transitive" lemma="sweep">sweep</w> away every thread of it.</s>
                <s>Think how many French troops are necessary in <ref><location source="2589581/"><country>Algeria</country></location></ref>, scarcely out of sight of
                   their native shores, and along a thin coast! Yet, if the Hindoos are not generally
                   a war-like race, there are still mixed up with them, and forming the best part of

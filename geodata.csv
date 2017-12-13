@@ -1,0 +1,26 @@
+﻿1857_09_july_times.pdf,,,,,
+placename,x,y,count,refs,questions
+India,22,79,2,"""India"", ""the whole Peninsula""",
+Madrid,40.4165, -3.70256,1,"""Madrid""",
+Calcutta,22.56263,88.36304,1,"""Calcutta""",
+Punjab,30.85,72.31667,1,"""the Punjab""",
+Agra,27.08333,77.96667,2,"""the ancient capital of the Mogul empire"", ""the Mogul capital""",according to wikipedia
+Algeria,28,3,1,"""think how many French troops are needed in Algeria""",
+Delhi,28.65195,77.23149,3,"""concentrates his forces on Delhi""",
+,,,,,
+1857_19_may_times.pdf,,,,,
+placename,x,y,count,refs,questions
+Punjab,30.85,72.31667,2,"""the Punjab""",
+Sri Lanka,7.75,80.75,1,"""Ceylon""",is this a city or a region?
+India,22,79,1,"""Hindostan""",
+Bārākpur ,22.76602,88.36336,2,"""Barrackpore""",small area in/near Calcutta?
+Calcutta,22.56263,88.36304,1,"""Calcutta""",
+Dinapore,25.63705,85.04794,1,"""Dinapore""",
+Vellore,12.9184,79.13255,1,"""Vellore"" ref to violent mutiny 50 yrs prior",
+Empire of Ranjeet Singh,,,1,,
+Afghanistan,33,66,1,"""Affghanistan""",
+,,,1,"""the Siam""",
+Sindh,26.13333,68.76667,1,"""Scinde"" ref to recently annexed area",
+Bago,17.33521,96.48135,1,"""Pegu"" ref to recently annexed area",
+Awadh,26.15059,81.87252,1,"""Oude"" ref to recently annexed area",
+China,35,105,1,reference to span of British empire,

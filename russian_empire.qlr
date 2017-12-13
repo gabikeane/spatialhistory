@@ -1,0 +1,10 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+    <customproperties/>
+    <layer-tree-group expanded="1" checked="Qt::Checked" name="russian layer">
+      <customproperties/>
+    </layer-tree-group>
+  </layer-tree-group>
+  <maplayers/>
+</qlr>
